@@ -8,21 +8,21 @@ const Projects = () => {
     {
       title: "Plant Disease Prediction System",
       description: "Built a CNN-based plant disease classification model using TensorFlow and OpenCV for image analysis. Developed a user-friendly web dashboard using React.js and Flask, allowing users to upload plant images and receive disease diagnoses with treatment recommendations. Integrated a cloud database for scalable data storage and seamless access.",
-      image: "./public/images/pdd.jpg",
+      image: "../public/images/pdd.jpg",
       tags: ["Python", "TensorFlow", "Express", "MongoDB", "CNN"],
       github: "https://github.com/N-Neeraj/plant_disease_detection.git"
     },
     {
       title: "Face Recognition System",
       description: "Designed and deployed a high-performance face recognition system for secure authentication, utilizing deep learning models like FaceNet and OpenCV. Integrated into a web-based platform with JWT-based role-based access control. Deployed on AWS using a serverless architecture for scalability and reliability.",
-      image: "./public/images/download.jpg",
+      image: "../public/images/download.jpg",
       tags: ["Python", "Flask", "OpenCV", "JWT", "PostgreSQL"],
       github: "https://github.com/N-Neeraj/face-recognition1.git"
     },
     {
       title: "Stock Market Prediction Software",
       description: "Developed an AI-powered stock market prediction system using LSTM neural networks for accurate time-series forecasting. Integrated cloud-based APIs to fetch real-time stock data, enabling dynamic predictions. Optimized the backend using Flask and deployed the containerized model with Docker on AWS for scalable access.",
-      image: "./public/images/st.jpg",
+      image: "../public/images/st.jpg",
       tags: ["Python", "LSTM", "FastAPI", "Pandas", "AWS"],
       github: "https://github.com/N-Neeraj/Stock_prediction-.git"
     }
