@@ -96,7 +96,7 @@ const Contact = () => {
               <div className="mt-8 p-4 bg-blue-50 dark:bg-blue-900/30 rounded-lg">
                 <h4 className="text-lg font-semibold text-gray-800 dark:text-white mb-2">Available for Opportunities</h4>
                 <p className="text-gray-600 dark:text-gray-300">
-                  Currently open to full-time positions and freelance projects.
+                Iam eager to do an internship in a company that provides a good learning environment and opportunities for growth.
                 </p>
               </div>
             </div>
